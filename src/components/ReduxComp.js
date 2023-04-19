@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { dec_Num, inc_Num } from "../redux/action";
 const ReduxComp = () => {
